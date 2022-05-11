@@ -1,0 +1,16 @@
+## Personal Blender Addons and Scrips
+
+### Current Addons
+- AutoAlignment
+  - Aligns objects along an axis.
+  - Distributes objects along an axis.
+- AutoCable
+  - Generates a cable between two selected faces.
+
+```
+│
+├───.vscode
+└───Addon
+    ├───Alignment
+    └───AutoCable
+```

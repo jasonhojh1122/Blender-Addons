@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        ".venv/Lib/"
+    ],
+    "python.envFile": "${workspaceFolder}/.venv",
+    "cSpell.words": [
+        "bezier",
+        "bmesh"
+    ]
+}
